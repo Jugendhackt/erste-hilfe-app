@@ -1,0 +1,174 @@
+{
+"questions":[
+    {
+        "frageID": 0,
+        "frage": "Was liegt vor",
+        "antwortenanzahl": 3,
+        "antworten": ["Notruf", "Helfen", "Grundlegende Erste Hilfe Handlungen"],
+        "links" : [ 687752, 1, 199]
+    },
+    {
+        "frageID": 1,
+        "frage": "Was trifft zu?",
+        "antwortenanzahl": 5,
+        "antworten":["Offene Wunde", "Verbrennung", "Muskelverletzung", "Knochen- und Bänderverletzung", "Bewusstlos"],
+        "links" : [ 2, 687756, 4, 5, 6]
+    },
+    {
+        "frageID": 2,
+        "frage": "Was trifft zu?",
+        "antwortenanzahl": 4,
+        "antworten":["Schnittwunde", "Schürfwunde", "Platzwunde", "AbgetrennteKörperteile"],
+        "links" : [ 3, 687754, 687755, 68775 ]
+    },
+    {
+        "frageID": 3,
+        "frage": "Wie groß ist die Schnittwunde",
+        "antwortenanzahl": 3,
+        "antworten":["kleine Wunde", "mittelgroße Wunde", "große Wunde"],
+        "links" : [ 687750, 687751, 687753]
+    },
+    {
+        "frageID": 4,
+        "frage": "Was am ehesten trifft zu",
+        "antwortenanzahl": 5,
+        "antworten": ["Schmerzt die Muskulatur bei Druck und Belastung und schwillt an?", "Ist die Muskulatur hart und schmerzt?", "Tritt der Schmerz erst ein bis zwei Tage nach der Belastung auf?", "Wird der Schmerz mit der Zeit schlimmer und entstehen Schmerzen bei Druck auf den Muskel?", "Ist der Schmerz stechend und sehr genau bestimmbar?"],
+        "links" : [ 687757, 687758, 687759, 687760, 687761 ]
+    },
+    {
+        "frageID": 5,
+        "frage": "Wo schmerzt es?",
+        "antwortenanzahl": 2,
+        "antworten": ["Am Knochen(Bruch)", "Am Gelenk"],
+        "links" : [ 68775, 68775]
+    },
+    {
+        "frageID": 6,
+        "frage": "Ist die Person ansprechbar bzw reagiert sie?",
+        "antwortenanzahl": 2,
+        "antworten": ["Ja", "Nein"],
+        "links" : [ 687762, 7]
+    },
+    {
+        "frageID": 7,
+        "frage": "Atmet die Person? Rufen sie sich am besten Hilfe durch andere Passanten",
+        "antwortenanzahl": 2,
+        "antworten": ["Ja", "Nein"],
+        "links" : [ 687763, 687764]
+    },
+    {
+        "frageID": 8,
+        "frage": "Was wollen Sie wissen?",
+        "antwortenanzahl": 3,
+        "antworten": ["Stabile Seitenlage", "Reanimation", "PECH-Regel", "Verhalten bei Unfällen", "Beatmung überprüfen", "Druckverband"],
+        "links" : [ 687765, 687766, 687767, 687768, 687769, 687770]
+    }
+],  
+"text":[
+    {
+        "textID":687750,
+        "content": ["Lassen Sie die Schnittwunde vor dem Versorgen etwas ausbluten. So werden Schmutzpartikel aus dem Gewebe geschwemmt. Stark verschmutzte Schnittwunden sollten Sie vorsichtig mit kühlem Leitungswasser ausspülen. Um die Blutung zu stoppen, drücken Sie einen sterilen Verband für fünf bis zehn Minuten leicht auf die Wunde, bis die Blutung nachlässt. Verwenden Sie zum Desinfizieren der Schnittwunde ein Hautdesinfektionsmittel. Bei einer kleinen Schnittwunde genügt meist ein Pflaster."],
+        "link1": ""
+    },
+    {
+        "textID":687751,
+        "content": ["Lassen Sie die Schnittwunde vor dem Versorgen etwas ausbluten. So werden Schmutzpartikel aus dem Gewebe geschwemmt. Stark verschmutzte Schnittwunden sollten Sie vorsichtig mit kühlem Leitungswasser ausspülen. Um die Blutung zu stoppen, drücken Sie einen sterilen Verband für fünf bis zehn Minuten leicht auf die Wunde, bis die Blutung nachlässt. Verwenden Sie zum Desinfizieren der Schnittwunde ein Hautdesinfektionsmittel. Bei größeren stärker blutenden Wunden sollten Sie mit einer sterilen Auflage und einer Mullkompresse versorgen. Gegebenenfalls ist auch ein Druckverband sinnvoll."],
+        "link1": ""
+    },
+    {
+        "textID":687752,
+        "content": ["Wo? Sagen Sie wo sie sich befinden. Benutzen sie wenn vorhanden Straße und Hausnummern, wenn nicht suchen sie nach auffäligkeiten wie Läden Busshaltestellen Spielplätzen oder aenlichen.", "Wer? Nennen sie ihren Vor und Nachnamen.", "Was? Sagen sie kurzgefasst was passiert ist.", "Wieviele? Nennen sie wieviele Verletzte es gibt, wie schwer diese Verletzt sind und ggf. das geschätzte Alter der Personen.", "Warten auf Rückfragen? Warten sie auf Rückfragen der Leitstelle und legen sie nicht sofort auf.", "Warten auf Hilfe? Versuchen sie bis zum Eintreffen der Hilfe sich wenn nötig um die Verletzten zu kümmern und ansonsten zu gucken, dass für den Krankenwagen genug Platz für die Zufahrt ist und sie sie sich an der Straße für den eintreffenden Wagen auffällig machen."],
+        "link1": ""
+    },
+    {
+        "textID":687753,
+        "content": ["Entfernen Sie keine größeren Fremdkörper, wie etwas spitzes was in der Hand steckt, da dies nur zu größeren Blutungen führt. Sichern Sie diese stattdessen gegen Bewegungen beim anlegen des Verbandes.", "Decken sie die Wunde steril ab und legen sie einen Druckverband an.", "Rufen sie bei schlimmeren Verletzungen den Rettungsdienst und suchen sie ansonsten zeitig einen Arzt auf."],
+        "link1": "Druckverband" 
+    },
+    {
+        "textID":687754,
+        "content": ["Reinigen Sie die Schürfwunde unter laufendem Wasser.", "Dann reinigen Sie die Wunde mit einer Wundspüllösung.", "Kleinere Schürfwunden heilen meistens alleine an der Luft.", "Bei großen, nässenden Wunden empfiehlt es sich, einen PU-Schaumverband zu verwenden.", "Der enthaltene Wundreiniger in Verbindung mit Glycerin sorgt dafür, dass die Schürfwunde nicht vorzeitig austrocknet. So wird verhindert, dass Körpergewebe mit dem Wundverband verwächst. Verwachsene und verklebte Verbände führen beim Abnehmen meist zu einem erneuten Aufreißen der Schürfwunde."],
+        "link1": ""
+    },
+    {
+        "textID":687755,
+        "content": ["Waschen Sie das Blut mit kühlem Leitungswasser ab. Ist dies nicht möglich, tupfen Sie die Wunde mit einem sauberen Tuch oder Gazestück ab", "Desinfizieren Sie die Wunde mit einem nicht-alkoholischen Desinfektionsmittel aus der Apotheke.", "Blutet die Platzwunde stark, sollten Sie einen Druckverband anlegen. Achten Sie aber darauf, die Blutversorgung im betroffenen Körperteil nicht zu unterbrechen!", "Klafft eine Platzwunde an der Kopfhaut, an Beinen oder Armen weniger als 5 mm auseinander und ist kaum verschmutzt, können Sie diese selbst behandeln. Sobald die Blutung nachgelassen hat, schieben Sie die Wundränder vorsichtig aneinander. Kleben Sie dann Klammerpflaster (Wundnahtstreifen) über die Wunde.", "Entwickelt sich zusätzlich zur Platzwunde eine Beule, sollten Sie diese mit einem Kühlpad oder Eiswürfeln kühlen. Legen Sie solche Kühlelemente aber nicht direkt auf die Haut, sondern eingewickelt in eine Stück Stoff. Sonst besteht die Gefahr lokaler Erfrierungen"],
+        "link1": "" 
+    },
+    {
+        "textID":687756,
+        "content": ["bei großen schwereren Verbrennungen, betätigen sich einen Notruf.", "Bei verbrennung durch heiße Kleidung (Kochendes Wasser auf Kleidung oder brennende Kleidung) diese sofort entfernen.", "Sofern die Verbrennung nicht deutlich größer wie eine Handfläche ist, sofort unter (am Besten) kühles Wasser halten.", "nach dem kühlen wenn möglich keimfrei bedecken", "Sofern Blasen vorhanden sind, diese nicht öffnen und auch bei kleineren Wunden einen Arztbesuch in Betracht ziehen."],
+        "link1": ""
+    },
+    {
+        "textID":687757,
+        "content": ["Muskelprellung: Prellungen werden nach dem PECH-Schema (Pause, Eis, Compression, Hochlagern) behandelt ud heilen nach zehn bis vierzehn Tagen."],
+        "link1": ""
+    },
+    {
+        "textID":687758,
+        "content": ["Muskelkrampf: Krämpfe werden mit en gegngesetzter Dehnung gelöst. Außerdem ist es sinnvoll keine kalten Getränke zu drinken und die verkrampften Muskeln mit Wärme zu behandeln. Bei sehr hartneckigen Krämpfen können Ärtzte mit einer Infusion oder Medikamenten helfen."],
+        "link1": ""
+    },
+    {
+        "textID":687759,
+        "content": ["Muskelkater: Muskelkater können durch Wärme einwirkung wegen einer besseren Durblutung schneller heilen. Außerdem kann Training mit wenig Belastung hilfreich sein."],
+        "link1": ""
+    },
+    {
+        "textID":687760,
+        "content": ["Muskelzerrung: Die erste Behandlung erfolgt nach dem PECH-Schema (Pause, Eis, Compression, Hochlagern). Danach darf die Muskulatur nicht massiert, erwärmt oder belastet werden. Der nächste Schritt ist dann ein Besuch beim Artzt."],
+        "link1": ""
+    },
+    {
+        "textID":687761,
+        "content": ["Muskelfaser- bzw. Muskelriss: Die erste Behandlung erfolgt nach dem PECH-Schema (Pause, Eis, Compression, Hochlagern). Danach darf die Muskulatur nicht massiert, erwärmt oder belastet werden. Der nächste Schritt ist dann ein Besuch beim Artzt, da man bei größeren Rissen ein Operativereingriff notwendig ist."],
+        "link1": ""
+    },
+    {
+        "textID":687762,
+        "content": ["ruhig bleiben", "was ist passiert?", "wie geht es der person", "ggf. Notruf rufen"],
+        "link1": ""
+    },
+    {
+        "textID":687763,
+        "content": ["Stabile Seitenlage", "Notruf", "Person zudecken", "Mehrmals erneut auf Bewusstlosigkeit prüfen"],
+        "link1": ""
+    },
+    {
+        "textID":687764,
+        "content": ["sofort Notruf", "Reanimation"],
+        "link1": "Reanimation"
+    },
+    {
+        "textID":687765,
+        "content": ["Beine strecken", "den nahem Arm angewickelt mit Handfläche nach oben nach oben legen", "am anderem Arm das Handgeleng greifen und auf die andere Seite ziehen", "Arm vor der Brust kreuzen und die anfangs ferne Hand unter die Wange legen", "Hand nicht loslassen!", "am oberen Oberschenckel greifen und Bein im rechten Winkel anwinkeln", "Hals überstrecken", "Mund leicht öffnen", "Atmung und Puls regelmäßig prüfen"],
+        "link1": ""
+    },
+    {
+        "textID":687766,
+        "content": ["erst Notruf rufen", "falls verfübar Defibrilator benutzen", "Aufrecht über den Brustkorb stellen", "ca 110 Stöße pro Minute geben", "nach 30 Stößen 2 Atemspenden(dabei Nase des Patienten zuhalten) geben", "solange wiederholen bis Hilfe eintrifft"],
+        "link1": ""
+    },
+    {
+        "textID":687767,
+        "content": ["P-ause: möglichst gleich eine Pause machen", "E-is: direkt kühlen", "C-ompresion: Druckverband anlegen", "H-ochlagern: Das betroffene Körperteil Hochlegen"],
+        "link1": ""
+    },
+    {
+        "textID":687768,
+        "content": ["Notruf rufen", "Versorgendes Verletzten", "Absicherung des Unfallorts", "Anweisungen von Fachpersonal beachten"],
+        "link1": ""
+    },
+    {
+        "textID":687769,
+        "content": ["Überstrecken Sie den Nacken der PersonGehen sie mit Ihrem Kopf so über den Mund der Person, dass sie zum einen das Ohr über dessen Mund haben und Blick auf seinen Oberkörper haben.", "Achten sie nun darauf, ob Sie zum einen am Ohr warme Luft spüren oder eine Atmung hören können und zum anderen darauf ob sich Brust und/oder Bauch auf und ab bewegen.", "Falls etwas davon der Fall sein sollte, atmet die Person, ansonsten ziemlich sicher nicht."],
+        "link1": ""
+    },
+    {
+        "textID":687770,
+        "content": ["Sprechen Sie mit dem Verletzen und Erklären Sie ihm jeden Schritt, den Sie beim Anlegen des Druckverbands durchführen", "Lagern Sie das Körperteil mit der stark blutenden Wunde (Arm, Bein) hoch. Das verringert die Blutzufuhr ins Wundgebiet. Alternativ bitten Sie den Verletzten (falls ansprechbar) oder einen Umstehenden, die verletzte Extremität nach oben zu halten.", "Zusätzlich können Sie versuchen, größere blutzuführende Gefäße ins Wundgebiet abzudrücken. Am Arm ist der richtige Punkt dafür die Arterie zwischen Bizeps und Trizeps (Oberarmmuskeln). Am Bein pressen Sie vor dem Anlegen des Druckverbands in die Leiste des Verletzten (mittig).", "Legen Sie zunächst eine sterile Wundauflage auf die Wunde und decken sie damit komplett ab.", "Fixieren Sie die Wundauflage, indem Sie eine Mull- oder elastische Binde mit etwas Zug ein paar Mal herumwickeln (aber nicht die ganze Binde). Die Binde sollte straff, aber nicht zu festsitzen.", "Setzen Sie nun ein Druckpolster über der Wunde auf die umwickelte Wundauflage. Dafür eignet sich ein noch ungeöffnetes Verbandspäckchen, zum Beispiel eine noch verpackte Binde. Ist keine zur Hand, geht auch ein Päckchen Taschentücher oder Ähnliches.", "Halten Sie mit einer Hand das Druckpolster fest und wickeln Sie mit der anderen nun die restliche Binde um das verletzte Körperteil. Achten Sie auch hier auf einen gewissen Zug. Fixieren Sie das Ende der Binde, damit sie sich nicht löst.", "Blutet der Verband durch, können Sie einen zweiten daraufsetzen, um den Druck zu erhöhen. Dazu nochmals eine Binde um den verletzen Körperteil wickeln, ein weiteres Druckpolster auf dem ersten Platzieren und Fixieren.", "Achten Sie darauf, dass das verletzte Körperteil weiter hoch positioniert wird, am besten über das Herzniveau. Die Schwerkraft verringert dann den Blutstrom ins Wundgebiet.", "Falls in der Zwischenzeit noch nicht der Notarzt alarmiert wurde, sollten Sie das spätestens jetzt tun! Eine stark blutende Wunde kann lebensgefährlich werden. Sie muss daher umgehend ärztlich versorgt werden."],
+        "link1": ""
+    }
+]
+}
